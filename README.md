@@ -35,3 +35,13 @@ The application was built with:
  - KoinでServiceクラスをDIコンテナで管理する
  - ログイン機能を追加する
  - SessionStorageとしてRedisを使用する
+
+### HOW TO START
+
+#### START KTOR
+ - ./gradlew run
+
+#### START REACT
+ - cd src-react\todo-app
+ - npm install
+ - npm start
