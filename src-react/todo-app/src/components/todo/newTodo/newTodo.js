@@ -34,7 +34,7 @@ const NewTodo = (props) => {
             "content": content,
             "importance": importance,
             "userName": "TARO",
-            "status": 1
+            "status": 0
         }
         props.addTodo(newTodo)
     }
