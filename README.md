@@ -2,6 +2,16 @@
 
  ちゅーとりあるとして React と ktor で簡易なTODOアプリを作成。
 
+# 概要
+ 
+ - 期限、重要度(高 > 中 > 低)、TODO内容を入力して送信すると、TODOが追加
+![Videotogif (1)](https://user-images.githubusercontent.com/30945996/122807105-1f1a1680-d306-11eb-92b1-7ce65b6a5376.gif)
+
+ - TODOの完了/未完了をクリックで切替
+ - TODOをチェックした状態で「削除」ボタンを押下するとTODOを削除
+ ![Videotogif (2)](https://user-images.githubusercontent.com/30945996/122807400-833cda80-d306-11eb-9479-d5f85708f932.gif)
+
+
 ## React × Kotlin
 
 ### Frontend(React)
